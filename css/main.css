@@ -10,8 +10,8 @@ html {
 }
 
 body {
-    background-color: #04b4e0;
-    background: linear-gradient(#03b0db,#46e6b6);;
+    background-color: #4c93a8;
+    background: linear-gradient(#4c93a8,#4c93a8);;
     margin: 0;
     width: 100%;
     height: 100%;
@@ -1236,7 +1236,7 @@ input[type=text],
 }
 
 .skills-second-style .skill-container.skill-1 .skill-percentage {
-    width: 95%
+    width: 70%
 }
 
 .skills-second-style .skill-container.skill-2 .skill-percentage {
@@ -1244,19 +1244,19 @@ input[type=text],
 }
 
 .skills-second-style .skill-container.skill-3 .skill-percentage {
-    width: 80%
+    width: 70%
 }
 
 .skills-second-style .skill-container.skill-4 .skill-percentage {
-    width: 90%
+    width: 80%
 }
 
 .skills-second-style .skill-container.skill-5 .skill-percentage {
-    width: 95%
+    width: 70%
 }
 
 .skills-second-style .skill-container.skill-6 .skill-percentage {
-    width: 85%
+    width: 70%
 }
 
 .skills-second-style .skill-container.skill-7 .skill-percentage {
@@ -1268,7 +1268,7 @@ input[type=text],
 }
 
 .skills-second-style .skill-container.skill-9 .skill-percentage {
-    width: 90%
+    width: 50%
 }
 
 .pt-page .skills-second-style .skill-percentage,
